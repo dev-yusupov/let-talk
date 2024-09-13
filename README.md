@@ -1,1 +1,1 @@
-# let-talk
+# LetTalk - real-time chatting app
